@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stefan
-- 👀 I’m interested in mathematics, programming, and data science
+- ⚡ I’m interested in mathematics, programming, and data science
 - 📫 Connect with me on Linkedin at:
       www.linkedin.com/in/stefan-lazarevic-b3b42598
 
